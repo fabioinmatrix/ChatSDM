@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatSDM</string>
+    <string name="digite_o_nome">Digite o nome...</string>
+    <string name="digite_o_apelido">Digite o apelido...</string>
+    <string name="title_activity_contacts_list">ContactsListActivity</string>
+    <string name="url_base">http://www.nobile.pro.br/sdm4/mensageiro/</string>
+    <string name="digite_a_mensagem">Digite a mensagem...</string>
+    <string name="todo">TODO</string>
+</resources>
